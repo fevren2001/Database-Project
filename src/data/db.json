@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": {
+        "username": "moderator",
+        "email": "moderator@example.com",
+        "age": 45,
+        "gender": "male",
+        "password": "123456"
+      }
+    }
+  ]
+}
